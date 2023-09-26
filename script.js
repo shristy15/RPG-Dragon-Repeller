@@ -16,6 +16,7 @@ const goldText=document.querySelector("#goldText");
 const monsterStats=document.querySelector("#monsterStats");
 const monsterNameText=document.querySelector("#monsterName");
 const monsterHealthText=document.querySelector("#monsterHealth");
+<<<<<<< HEAD
 const weapons=[
     {
         name:"stick",
@@ -114,4 +115,6 @@ function fightSlime(){
 function fightBeast(){
 
 }
+=======
+>>>>>>> 7d2bf94e6808c8aeec6b1f14c9d0be0f81f1ef3c
 
